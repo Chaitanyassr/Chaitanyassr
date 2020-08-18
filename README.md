@@ -21,14 +21,11 @@ Here are some ideas to get you started:
 
 ## I'm a Game Designer and a game programmer, I use Unreal engine 4 and Cryengine 5!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 🔭 I’m currently working on my Unreal engine 4 game [Mystic 4][https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber]!
+- 🌱 I’m currently perfecting my skills on Unreal engine 4 and cryengine 🤣
+- 👯 I’m looking for to work with some big companies on AAA title.
+- 🥅 2020 Goals: Become a master in Unreal engine 4.
+- ⚡ Fun fact: I love to design, develop, draw, sing and dance.
 
 ### Connect with me:
 
@@ -112,11 +109,11 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://chaitanyassr.netlify.com
+[twitter]: https://twitter.com/Chinu282828777
+[youtube]: https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber
+[instagram]: https://www.instagram.com/1st_incommand/
+[linkedin]: https://www.linkedin.com/in/chinuon/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
