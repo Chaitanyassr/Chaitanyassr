@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Unreal engine" width="26px" src="https://www.pngfind.com/pngs/m/435-4350837_unreal-engine-logo-png-transparent-png.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Cryengine 5.6" width="26px" src="https://cdn.imgbin.com/17/4/14/imgbin-cryengine-3-game-engine-logo-crytek-unreal-engine-v1vgWQ8uSJjgjLuzE73z1DYfX.jpg" />
+<img align="left" alt="Cryengine 5.6" width="26px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Cry_Engine.png" />
 <img align="left" alt="Hugo" width="26px" src="https://trucklab.ch/img/post/2017-06-26-website-now-live.png" />
 <img align="left" alt="GraphicGale" width="26px" src="https://www.gamemaking.tools/wiki/images/1/1f/GraphicsGale_logo.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="php" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPrzb4KExaMayN_Wy7Zon-Rf6OAdIhHMKI7w&usqp=CAU" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
