@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Cryengine 5.6" width="26px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Cry_Engine.png" />
 <img align="left" alt="Hugo" width="26px" src="https://trucklab.ch/img/post/2017-06-26-website-now-live.png" />
 <img align="left" alt="GraphicGale" width="26px" src="https://www.gamemaking.tools/wiki/images/1/1f/GraphicsGale_logo.png" />
-<img align="left" alt="php" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPrzb4KExaMayN_Wy7Zon-Rf6OAdIhHMKI7w&usqp=CAU" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="php" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmrOhRWUox7wMdbu-bjwH40SQoT8Dyt6OBmQ&usqp=CAU" />
+<img align="left" alt="Godot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
