@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Konva" width="26px" src="https://reactjsexample.com/content/images/2018/07/React-Konva.jpg" />
 <img align="left" alt="Figma" width="26px" src="https://miro.medium.com/max/6400/1*hewxl4LWLeRY5d5_CvJKlw.png" />
 <img align="left" alt="AndroidStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://i1.pngguru.com/preview/843/922/493/python-logo-programming-language-computer-programming-highlevel-programming-language-generalpurpose-programming-language-computer-software-objectoriented-programming-django-png-clipart.jpg" />
 <img align="left" alt="Clickup" width="26px" src="https://clickup.com/landing/images/for-se-page/clickup.png" />
 <img align="left" alt="Waterfall" width="26px" src="https://cdn3.iconfinder.com/data/icons/agile-method-waterfall-model/100/b-waterfall-512.png" />
 
