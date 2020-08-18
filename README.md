@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Chaitanya - aka [Chinuon][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://chaitanyassr.netlify.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Chinu282828777)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Chinu282828777?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Chinu282828777)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Game Designer and a game programmer, I use Unreal engine 4 and Cryengine 5!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
