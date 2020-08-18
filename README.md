@@ -49,12 +49,20 @@ Here are some ideas to get you started:
 <img align="left" alt="GraphicGale" width="26px" src="https://www.gamemaking.tools/wiki/images/1/1f/GraphicsGale_logo.png" />
 <img align="left" alt="php" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmrOhRWUox7wMdbu-bjwH40SQoT8Dyt6OBmQ&usqp=CAU" />
 <img align="left" alt="Godot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="cpanel" width="26px" src="https://www.uokpl.rs/fpng/d/599-5991278_transparent-cpanel-logo.png" />
+<img align="left" alt="NSIS" width="26px" src="https://www.saashub.com/images/app/service_logos/18/fdf4141035ce/large.png?1541551237" />
+<img align="left" alt="JAMStack" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZ_lbhdq-ZXX9EcFOpz5UzLJqxOhw3_lwtPA&usqp=CAU" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="Flask" width="26px" src="https://i1.wp.com/www.corellis.eu/wp-content/uploads/2018/09/logo-flask.png" />
+<img align="left" alt="Konva" width="26px" src="https://reactjsexample.com/content/images/2018/07/React-Konva.jpg" />
+<img align="left" alt="Figma" width="26px" src="https://miro.medium.com/max/6400/1*hewxl4LWLeRY5d5_CvJKlw.png" />
+<img align="left" alt="AndroidStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://i1.pngguru.com/preview/843/922/493/python-logo-programming-language-computer-programming-highlevel-programming-language-generalpurpose-programming-language-computer-software-objectoriented-programming-django-png-clipart.jpg" />
+<img align="left" alt="Trello" width="26px" src="https://images.squarespace-cdn.com/content/v1/59ea7374f43b55a33fa5ef2d/1513982397014-MYC6WAFBZA4ILUC2KV54/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyD4IQ_uEhoqbBUjTJFcqKvko9JlUzuVmtjr1UPhOA5qkTLSJODyitRxw8OQt1oetw/Trello+Logo.png" />
+<img align="left" alt="Clickup" width="26px" src="https://clickup.com/landing/images/for-se-page/clickup.png" />
+<img align="left" alt="Waterfall" src="https://cdn3.iconfinder.com/data/icons/agile-method-waterfall-model/100/b-waterfall-512.png" />
 
 <br />
 <br />
