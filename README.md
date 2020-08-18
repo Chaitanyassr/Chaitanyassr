@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## I'm a Game Designer and a game programmer, I use Unreal engine 4 and Cryengine 5!
 
-- 🔭 I’m currently working on my Unreal engine 4 game [Mystic 4][https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber]!
+- 🔭 I’m currently working on my Unreal engine 4 game [Mystic 4](https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber)!
 - 🌱 I’m currently perfecting my skills on Unreal engine 4 and cryengine 🤣
 - 👯 I’m looking for to work with some big companies on AAA title.
 - 🥅 2020 Goals: Become a master in Unreal engine 4.
@@ -64,14 +64,14 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [IRIS (Level designing) Achieved with Cryengine 5.6](https://www.youtube.com/watch?v=n6d4KHSKqGk)
+- [Mystic 4 / preview 10](https://www.youtube.com/watch?v=X_8_pWMzpGg)
+- [Cooking and chunking in unreal engine 4(Build more than one pak file using chunking)](https://www.youtube.com/watch?v=9j4M4LDyc3g)
+- [Mystic 4 / preview 9](https://www.youtube.com/watch?v=MRq2gZyVW0U)
+- [Mystic 4 / trailer 1(Unreal engine 4.22.1)](https://www.youtube.com/watch?v=5mjsOKdLrhM&t=10s)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber)
 
 ---
 
