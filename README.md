@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Unreal engine" width="26px" src="https://www.pngfind.com/pngs/m/435-4350837_unreal-engine-logo-png-transparent-png.png" />]
+<img align="left" alt="Unreal engine" width="26px" src="https://www.pngfind.com/pngs/m/435-4350837_unreal-engine-logo-png-transparent-png.png" />
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Cryengine 5.6" width="26px" src="https://cdn.imgbin.com/17/4/14/imgbin-cryengine-3-game-engine-logo-crytek-unreal-engine-v1vgWQ8uSJjgjLuzE73z1DYfX.jpg" />]
 [<img align="left" alt="Hugo" width="26px" src="https://trucklab.ch/img/post/2017-06-26-website-now-live.png" />]
@@ -87,7 +87,4 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber
 [instagram]: https://www.instagram.com/1st_incommand/
 [linkedin]: https://www.linkedin.com/in/chinuon/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
