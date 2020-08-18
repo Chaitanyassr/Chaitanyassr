@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Chaitanya - aka [Chinuon][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://chaitanyassr.netlify.com)
+[![Website](https://www.google.com/search?q=chinuon+studio&rlz=1C1GGRV_enIN802IN802&sxsrf=ALeKk01UTc5C6sK-or45i-2q5-uIV11PvA:1597752284383&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi66uWK26TrAhV1pOkKHUAvAH4Q_AUoA3oECAsQBQ&biw=1096&bih=515&dpr=1.75#imgrc=XM5gi-SDJHD9tM)](https://chaitanyassr.netlify.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Chinu282828777?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Chinu282828777)
 
 ## I'm a Game Designer and a game programmer, I use Unreal engine 4 and Cryengine 5!
