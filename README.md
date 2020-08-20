@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 
-
+<br />
 <img align="left" alt="Waterfall" width="26px" src="https://cdn3.iconfinder.com/data/icons/agile-method-waterfall-model/100/b-waterfall-512.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Flask" width="26px" src="https://i1.wp.com/www.corellis.eu/wp-content/uploads/2018/09/logo-flask.png" />
