@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img align="left" alt="cpanel" width="26px" src="https://www.uokpl.rs/fpng/d/599-5991278_transparent-cpanel-logo.png" />
 <img align="left" alt="NSIS" width="26px" src="https://www.saashub.com/images/app/service_logos/18/fdf4141035ce/large.png?1541551237" />
 <img align="left" alt="JAMStack" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZ_lbhdq-ZXX9EcFOpz5UzLJqxOhw3_lwtPA&usqp=CAU" />
-
+<br />
 <br />
 <br />
 <img align="left" alt="Waterfall" width="26px" src="https://cdn3.iconfinder.com/data/icons/agile-method-waterfall-model/100/b-waterfall-512.png" />
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<br />
+
 
 
 ---
