@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<br />
 <img align="left" alt="Flask" width="26px" src="https://i1.wp.com/www.corellis.eu/wp-content/uploads/2018/09/logo-flask.png" />
 <img align="left" alt="Figma" width="26px" src="https://miro.medium.com/max/6400/1*hewxl4LWLeRY5d5_CvJKlw.png" />
 <img align="left" alt="AndroidStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
