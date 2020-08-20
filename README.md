@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <img align="left" alt="AndroidStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
 <img align="left" alt="Clickup" width="26px" src="https://clickup.com/landing/images/for-se-page/clickup.png" />
 <img align="left" alt="Waterfall" width="26px" src="https://cdn3.iconfinder.com/data/icons/agile-method-waterfall-model/100/b-waterfall-512.png" />
-<img align="right"  alt="GitHub" width="26px"src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="right" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left"  alt="GitHub" width="26px"src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 
 <br />
 <br />
