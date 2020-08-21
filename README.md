@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
 - [IRIS (Level designing) Achieved with Cryengine 5.6](https://www.youtube.com/watch?v=n6d4KHSKqGk)
