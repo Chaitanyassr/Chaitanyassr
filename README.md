@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## I'm a Game Designer and a game programmer, I use Unreal engine 4 and Cryengine 5!
 
 - 🔭 I’m currently working on my Unreal engine 4 game [Mystic 4](https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber)!
-- 🌱 I’m currently perfecting my skills on Unreal engine 4 and cryengine 🤣
+- 🌱 I’m currently perfecting my skills on Unreal engine 4 and cryengine. 🤣
 - 👯 I’m looking for to work with some big companies on AAA title.
 - 🥅 2020 Goals: Become a master in Unreal engine 4.
 - ⚡ Fun fact: I love to design, develop, draw, sing and dance.
