@@ -50,6 +50,7 @@
 <img align="left" alt="AndroidStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
 <img align="left" alt="Clickup" width="26px" src="https://clickup.com/landing/images/for-se-page/clickup.png" />
 <img align="left" alt="Waterfall" width="26px" src="https://cdn3.iconfinder.com/data/icons/agile-method-waterfall-model/100/b-waterfall-512.png" />
+<img align="left" alt="Waterfall" width="26px" srchttps://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png />
 <br />
 <br />
 <br />
