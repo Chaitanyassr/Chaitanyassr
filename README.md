@@ -71,7 +71,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber)
 
 ---
-
 <details>
   <summary>:zap: Github Stats</summary>
 
