@@ -1,5 +1,3 @@
-
-
 ### Hi there, I'm Chaitanya - aka [Chinuon/Chinu][website] 👋
 
 [![Website](https://img.shields.io/website?label=Chaitanyassr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://chaitanyassr.netlify.com)
