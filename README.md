@@ -73,7 +73,6 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Chaitanyassr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chaitanyassr&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://chaitanyassr.netlify.com
