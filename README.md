@@ -14,7 +14,6 @@
 - 💬 Ask me about ...anything. I am a good problem solver and can have solution of any thing releated to any domain of life.
 
 
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
