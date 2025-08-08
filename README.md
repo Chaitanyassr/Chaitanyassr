@@ -13,14 +13,14 @@
 
 
 
-## I'm a Game/Level Designer and a game programmer, I use Unreal engine 4 and Cryengine 5!
+## I'm a Game producer, Lead Tech Artist and a game developer, I use Unreal Engine 5,4, Godot, Unity and Cryengine 5!
 
-- 🔭 I’m currently working on my Unreal engine 4 game [Mystic 4](https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber)!
-- 🌱 I’m currently perfecting my skills on Unreal engine 4 and cryengine.🤣
-- 👯 I’m looking for to work with some big companies on AAA title.
-- 🥅 2021 Goals: Earn a lot of money.
+- 🔭 I’m currently working for 7+ years in gaming industry [Youtube](https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber)!
+- 🌱 I have led teams and managed project.🤣
+- 👯 I have designed and implemented lots of game systems, which I cannot count.
+- 🥅 2025 Goals: Enjoy my life and give something unique to the world.
 - ⚡ Fun fact: I love to design, develop, draw, sing and dance.
-- 💬 Ask me about ...anything. I am a good problem solver and can have solution of any thing releated to any domain of life.
+- 💬 Ask me about ...anything. I am a good problem solver and can have a solution of anything releated to any domain of life.
 
 
 ### Connect with me:
